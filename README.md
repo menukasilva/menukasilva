@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Menuka Silva
-- 👀 I’m interested in PWA, Flitter, Javascript
+- 👀 I’m interested in PWA, Flutter, JavaScript
 - 🌱 I’m currently learning them
 - 💞️ I’m looking to collaborate on senior comminication projects
 - 📫 How to reach me: menukasilva@icloud.com
