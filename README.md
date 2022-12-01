@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Menuka Silva
-- 👀 I’m interested in PWA, Flutter, JavaScript
-- 🌱 I’m currently learning them
-- 💞️ I’m looking to collaborate on senior comminication projects
+- 👀 I’m interested in Python, JavaScript, Selenium and SQL
+- 🌱 I have relocated to New Brunswick, Canada
+- 💞️ I’m looking for a remote Job
 - 📫 How to reach me: menukasilva@icloud.com
 
 <!---
