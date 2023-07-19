@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Menuka Silva
-- 👀 I’m interested in PHP, JavaScript, Selenium and SQL
+- 👀 I’m interested in Data Analytics, SQL, Python and BI
 - 🌱 I have relocated to New Brunswick, Canada
 - 💞️ I’m looking for a remote Job
 - 📫 How to reach me: menukasilva@icloud.com
